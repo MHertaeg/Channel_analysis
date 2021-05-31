@@ -26,7 +26,7 @@ manual_zero = 0;
 %%%%%
 
 
-load('Heightsample01.mat')
+load('Example.mat')
 % figure
 
 [A,B] = size(Height);
