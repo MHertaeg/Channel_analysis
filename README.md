@@ -10,9 +10,6 @@ Channel_analysis_210325.m - Function to remove linear drift in signal
 Example.mat - Simple geometry
 
 
-## Code Walkthrough
-
-
 ## Notes
 Two manual checks are in place to ensure auto flattening and channel identification was effective.
 4 Sensitivity variables (S1, S2, S3, S4) can be altered to assist in channel identification in non ideal samples.
