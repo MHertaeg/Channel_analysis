@@ -3,7 +3,7 @@ Custom Matlab script used to analyse used to analyse channel width and depth of 
 
 
 ## Contents 
-Channel_analysis_210311.m - Main run file
+detrend_2d_updated_210311.m - Main run file
 
 Channel_analysis_210325.m - Function to remove linear drift in signal
 
