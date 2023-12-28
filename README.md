@@ -1,5 +1,5 @@
 # Channel_analysis
-Custom Matlab script used to analyse used to analyse channel width and depth of regular parralel channels. Written for the analysis of cellulose nanofiber microfluidic channels from 3d confocal microscope data presented in Brown et al (2022). 
+Custom Matlab script used to analyse channel width and depth of regular parralel channels. Written for the analysis of cellulose nanofiber microfluidic channels from 3d confocal microscope data presented in Brown et al (2022). 
 
 
 ## Contents 
