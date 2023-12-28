@@ -3,9 +3,9 @@ Custom Matlab script used to analyse channel width and depth of regular parralel
 
 
 ## Contents 
-detrend_2d_updated_210311.m - Main run file
+Channel_analysis_210325.m  - Main run file
 
-Channel_analysis_210325.m - Function to remove linear drift in signal
+detrend_2d_updated_210311.m - Function to remove linear drift in signal
 
 Example.mat - Simple geometry
 
